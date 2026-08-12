@@ -112,7 +112,7 @@
 <p align="center">
 
 >**"If your code works don't touch it." 🚀**
->#                  Thanks for visiting! Feel free to connect and let's grow together.🚀<img width="250" height="280" alt="despicablememinionsGIF" src="https://github.com/user-attachments/assets/5972299f-8a7e-4985-bc95-84629b73be55" />
-
+>#                  Thanks for visiting! Feel free to connect and let's grow together.🚀
+><div class="tenor-gif-embed" data-postid="19684211" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/code-coding-computer-gif-19684211">Code Coding GIF</a>from <a href="https://tenor.com/search/code-gifs">Code GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 </p>
