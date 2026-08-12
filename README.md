@@ -41,7 +41,7 @@
 
 <p align="center">
 
-<img src="https://www.logo.wine/logo/MySQL" height="60"/>
+<img src="https://skillicons.dev/icons?i=python" height="60"/>
 
 <img src="https://skillicons.dev/icons?i=java" height="60"/>
 
