@@ -113,6 +113,8 @@
 
 >**"If your code works don't touch it." 🚀**
 >#                  Thanks for visiting! Feel free to connect and let's grow together.🚀
-><div class="tenor-gif-embed" data-postid="19684211" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/code-coding-computer-gif-19684211">Code Coding GIF</a>from <a href="https://tenor.com/search/code-gifs">Code GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+><p align="center">
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="500"/>
+</p>
 
 </p>
