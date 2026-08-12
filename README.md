@@ -111,6 +111,8 @@
 
 <p align="center">
 
-> **"Code. Learn. Build. Repeat." 🚀**
+>**"If your code works don't touch it." 🚀**
+>#                  Thanks for visiting! Feel free to connect and let's grow together.🚀<img width="250" height="280" alt="despicablememinionsGIF" src="https://github.com/user-attachments/assets/5972299f-8a7e-4985-bc95-84629b73be55" />
+
 
 </p>
