@@ -41,7 +41,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c" height="60"/>
+<img src="https://skillicons.dev/icons?i=MySql" height="60"/>
 
 <img src="https://skillicons.dev/icons?i=java" height="60"/>
 
@@ -59,9 +59,9 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=princetyagi1424&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anantttt1&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princetyagi1424&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anantttt1&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
