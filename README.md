@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anant Goyal</h1>
 
-<h3 align="center">🚀 Data Analytics Enthusiast | SQL | Python | Java | </h3>
+<h3 align="center">🚀 Data Analytics Enthusiast | MySQL | Python | Java | </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Python+Programmer;Java+Learner;Pandas+Learner;Always+Learning+New+Things!" />
